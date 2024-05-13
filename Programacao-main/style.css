@@ -1,9 +1,9 @@
 body{
-background-color: #383D58; 
+background-color: #ba95eb; 
 color: white;
 }
 .cabeçalho{
-    background-color: #383D58;
+    background-color: #ba95eb;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -26,10 +26,17 @@ color: white;
     width: 25%;
 }
 .Escola{
-    background-image: linear-gradient(#48306d, #1573E2);
+    background-image: linear-gradient(#ba95eb, #ba95eb);
     color: white;
     display: flex;
 }
 body{
     font-family:'poppins',sans-serif;
 }
+
+.estudante-icone{
+    width:24px;
+}
+.estudante-div {
+    text-align: center;
+    }
